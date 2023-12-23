@@ -1,2 +1,2 @@
 # QuizzerAPI-SpringBoot
-A REST API developed with Spring Boot and PostgreGQL to process coding related questions in a quiz format.
+A REST API developed with Spring Boot and PostgreSQL to process coding related questions in a quiz format.
